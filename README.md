@@ -1,4 +1,4 @@
-# CNN Rock–Paper–Scissors Classifier — 220105
+# CNN Rock–Paper–Scissors Classifier by Md. Raihan Hossen. Id: 220105
 
 ## Results
 
